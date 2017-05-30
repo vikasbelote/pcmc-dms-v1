@@ -1,3 +1,5 @@
+DROP DATABASE `dms`;
+
 CREATE DATABASE  IF NOT EXISTS `dms` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `dms`;
 -- MySQL dump 10.13  Distrib 5.6.23, for Win32 (x86)
