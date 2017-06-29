@@ -43,6 +43,7 @@ create table dms_krida
 (
 	 row_id int auto_increment
     ,nasti_number varchar(100)
+    ,image_path varchar(500)
     
     ,primary key(row_id)
 );
